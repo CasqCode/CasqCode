@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## 🚀 Data Scientist | ML Engineer | Software Engineer
+## 🚀 Data Scientist | Software Engineer
 
 I build data-driven solutions that transform business problems into predictive and scalable systems.
 
