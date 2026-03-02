@@ -16,10 +16,10 @@ I build data-driven solutions that transform business problems into predictive a
 
 ## 🔬 Core Data Science Stack
 
-- **Languages:** Python, SQL, Java, C++
+- **Languages:** Python, SQL, Java, C++, HTML, JS
 - **ML & Data:** Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Logistic Regression
 - **Modeling:** Regression, Classification, Feature Engineering, Cross Validation
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Visualization:** Matplotlib, Seaborn, Power BI
 
 ---
@@ -28,6 +28,7 @@ I build data-driven solutions that transform business problems into predictive a
 
 - Git & GitHub
 - Docker
+- Databricks
 - Linux
 - CI/CD principles
 - Model versioning strategies
